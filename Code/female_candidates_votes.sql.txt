@@ -1,0 +1,4 @@
+SELECT SUM(r.votes) AS total_votes
+FROM Candidates c
+JOIN Results r ON c.id = r.candidate_id
+WHERE c.gender = 'female' AND c.age < 50;
