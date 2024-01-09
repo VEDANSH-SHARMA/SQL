@@ -1,0 +1,3 @@
+SELECT DISTINCT CITY
+FROM STATION
+WHERE City REGEXP '^[aeiou]' and City REGEXP '[aeiou]$';
