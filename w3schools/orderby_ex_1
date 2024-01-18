@@ -1,0 +1,6 @@
+
+SELECT * FROM Customers
+Order By
+ 
+City
+;
