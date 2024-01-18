@@ -1,0 +1,11 @@
+
+select
+ * FROM Customers
+Where
+ City = 'Berlin'
+or
+ 
+City
+ = '
+London
+';
