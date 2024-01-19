@@ -1,0 +1,10 @@
+SELECT * FROM Customers
+WHERE 
+PostalCode
+ 
+is
+ 
+Not
+ 
+NULL
+;
