@@ -1,0 +1,5 @@
+
+SELECT 
+avg(price)
+
+FROM Products;
