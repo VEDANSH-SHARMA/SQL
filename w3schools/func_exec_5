@@ -1,0 +1,4 @@
+SELECT 
+sum(price)
+
+FROM Products;
