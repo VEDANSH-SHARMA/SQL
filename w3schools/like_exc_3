@@ -1,0 +1,4 @@
+
+SELECT * FROM Customers
+where city like "%a%"
+;
