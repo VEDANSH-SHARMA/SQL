@@ -1,0 +1,8 @@
+
+SELECT * FROM Customers
+where country in
+ 
+('Norway',
+ 'France'
+)
+;
