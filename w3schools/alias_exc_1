@@ -1,0 +1,6 @@
+SELECT CustomerName,
+Address,
+PostalCode 
+As Pno
+
+FROM Customers;
